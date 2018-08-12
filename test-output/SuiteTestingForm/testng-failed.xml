@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteTestingForm]">
+  <listeners>
+    <listener class-name="com.company1.utility.ScreenshotUtility"/>
+  </listeners>
+  <test thread-count="5" name="SuiteTestingFormInValidDataTest :- Validate the Negative Scenarios for Testing Form(failed)">
+    <classes>
+      <class name="com.tractiondigital.SuiteTestingForm.SuiteTestingFormInValidDataTest">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="endTest"/>
+          <include name="SuiteTestingFormInValidDataTestPOM"/>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- com.tractiondigital.SuiteTestingForm.SuiteTestingFormInValidDataTest -->
+    </classes>
+  </test> <!-- SuiteTestingFormInValidDataTest :- Validate the Negative Scenarios for Testing Form(failed) -->
+  <test thread-count="5" name="SuiteTestingFormValidDataTest :- Validate the Positive Scenarios for Testing Form(failed)">
+    <classes>
+      <class name="com.tractiondigital.SuiteTestingForm.SuiteTestingFormValidDataTest">
+        <methods>
+          <include name="endTest"/>
+          <include name="reporterDataResults"/>
+          <include name="SuiteTestingFormValidDataTestPOM" invocation-numbers="2"/>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- com.tractiondigital.SuiteTestingForm.SuiteTestingFormValidDataTest -->
+    </classes>
+  </test> <!-- SuiteTestingFormValidDataTest :- Validate the Positive Scenarios for Testing Form(failed) -->
+</suite> <!-- Failed suite [SuiteTestingForm] -->

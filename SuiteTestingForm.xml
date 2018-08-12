@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteTestingForm">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+
+<test name="SuiteTestingFormInValidDataTest :- Validate the Negative Scenarios for Testing Form">
+    <classes>
+        <class name="com.tractiondigital.SuiteTestingForm.SuiteTestingFormInValidDataTest" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteTestingFormValidDataTest :- Validate the Positive Scenarios for Testing Form">
+    <classes>
+        <class name="com.tractiondigital.SuiteTestingForm.SuiteTestingFormValidDataTest" ></class>  
+    </classes>
+</test>
+</suite>

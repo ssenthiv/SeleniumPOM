@@ -1,0 +1,25 @@
+2018-06-03 19:23:33,043 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2018-06-03 19:23:39,180 - rootLogger - INFO - *************************** Execution Started For :- SuiteTestingFormValidDataTest *****************************
+2018-06-03 19:24:05,300 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '1' as SKIP In excel.
+2018-06-03 19:24:05,300 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************
+2018-06-03 19:24:05,308 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '2' as SKIP In excel.
+2018-06-03 19:24:05,309 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************
+2018-06-03 19:24:05,310 - rootLogger - INFO - SuiteTestingFormValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 19:24:05,691 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'FirstName'
+2018-06-03 19:24:05,935 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'LastName'
+2018-06-03 19:24:06,301 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Email'
+2018-06-03 19:24:06,441 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'MobileNo'
+2018-06-03 19:24:07,166 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Address'
+2018-06-03 19:24:07,938 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Suburb'
+2018-06-03 19:24:08,116 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'State'
+2018-06-03 19:24:08,243 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Post Code'
+2018-06-03 19:24:08,378 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Date of Birth'
+2018-06-03 19:24:08,512 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 19:24:08,627 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 19:24:13,730 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Element '[[ChromeDriver: chrome on XP (57ea124342380b8cfdde204e5474b31f)] -> xpath: .//*[@id='the-form']/div[2]/div[1]/div/h2]' not displayed after '5' Seconds of wait. 
+2018-06-03 19:24:13,755 - rootLogger - INFO - SuiteTestingFormValidDataTest:- SuiteTestingFormValidDataTest:- Testing Form confirmation Message actual: '' is not matched with expected 'Thank you for entering the competition.'
+2018-06-03 19:24:13,757 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Verified Text  'TestingForm_ThankU'
+2018-06-03 19:24:13,757 - rootLogger - INFO - SuiteTestingFormValidDataTest:- SuiteTestingFormInValidData  --> 'FAIL'
+2018-06-03 19:24:14,135 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Failures/03-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 03-Jun-2018__07_24_14PM.png'
+2018-06-03 19:24:14,144 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '3' as FAIL In excel.
+2018-06-03 19:24:14,145 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************

@@ -1,0 +1,55 @@
+2018-08-12 19:56:37,121 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2018-08-12 19:56:43,271 - rootLogger - INFO - *************************** Execution Started For :- SuiteTestingFormInValidDataTest *****************************
+2018-08-12 19:57:07,880 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-08-12 19:57:08,139 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-08-12 19:57:08,353 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-08-12 19:57:08,516 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-08-12 19:57:08,665 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-08-12 19:57:08,826 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-08-12 19:57:08,966 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-08-12 19:57:09,122 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-08-12 19:57:09,253 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-08-12 19:57:09,392 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-08-12 19:57:09,532 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-08-12 19:57:09,649 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-08-12 19:57:09,669 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-08-12 19:57:09,669 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-08-12 19:57:09,670 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-08-12 19:57:09,961 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/12-Aug-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 12-Aug-2018__07_57_09PM.png'
+2018-08-12 19:57:10,250 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/12-Aug-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 12-Aug-2018__07_57_10PM.png'
+2018-08-12 19:57:10,257 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '1' as PASS In excel.
+2018-08-12 19:57:10,257 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:10,257 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-08-12 19:57:10,532 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-08-12 19:57:10,637 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-08-12 19:57:10,821 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-08-12 19:57:10,959 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-08-12 19:57:11,096 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-08-12 19:57:11,232 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-08-12 19:57:11,376 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-08-12 19:57:11,502 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-08-12 19:57:11,632 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-08-12 19:57:11,768 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-08-12 19:57:11,881 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-08-12 19:57:11,898 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-08-12 19:57:11,898 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-08-12 19:57:11,898 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-08-12 19:57:12,178 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/12-Aug-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 12-Aug-2018__07_57_12PM.png'
+2018-08-12 19:57:12,457 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/12-Aug-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 12-Aug-2018__07_57_12PM.png'
+2018-08-12 19:57:12,470 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '2' as PASS In excel.
+2018-08-12 19:57:12,470 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:12,475 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '3' as SKIP In excel.
+2018-08-12 19:57:12,475 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:12,479 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '4' as SKIP In excel.
+2018-08-12 19:57:12,480 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:12,484 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '5' as SKIP In excel.
+2018-08-12 19:57:12,485 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:12,489 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '6' as SKIP In excel.
+2018-08-12 19:57:12,489 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:12,493 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '7' as SKIP In excel.
+2018-08-12 19:57:12,493 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:12,498 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '8' as SKIP In excel.
+2018-08-12 19:57:12,498 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:12,502 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '9' as SKIP In excel.
+2018-08-12 19:57:12,502 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-08-12 19:57:12,503 - rootLogger - INFO - ******************************** End of Execution for :- SuiteTestingFormInValidDataTest *************************************

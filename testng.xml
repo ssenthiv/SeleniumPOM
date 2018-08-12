@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Traction DIGITAL  Test Suite">
+
+	<listeners> 
+		<listener class-name="com.company1.utility.ScreenshotUtility"></listener> 
+ 	</listeners>
+
+	<suite-files>
+<!-- If you have more test suites, Please add them bellow. -->
+
+  	<suite-file path="./SuiteTestingForm.xml" /> 
+ 	</suite-files>
+  
+ </suite>

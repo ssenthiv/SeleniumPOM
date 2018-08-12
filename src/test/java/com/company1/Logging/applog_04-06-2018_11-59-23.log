@@ -1,0 +1,36 @@
+2018-06-04 11:59:26,123 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2018-06-04 11:59:32,278 - rootLogger - INFO - *************************** Execution Started For :- SuiteTestingFormValidDataTest *****************************
+2018-06-04 11:59:56,946 - rootLogger - INFO - SuiteTestingFormValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-04 11:59:57,215 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'FirstName'
+2018-06-04 11:59:57,373 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'LastName'
+2018-06-04 11:59:57,537 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Email'
+2018-06-04 11:59:57,672 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'MobileNo'
+2018-06-04 11:59:57,814 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Address'
+2018-06-04 11:59:57,944 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Suburb'
+2018-06-04 11:59:58,122 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'State'
+2018-06-04 11:59:58,240 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Post Code'
+2018-06-04 11:59:58,369 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Date of Birth'
+2018-06-04 11:59:58,511 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-04 11:59:58,620 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Submit Button'
+2018-06-04 12:00:03,709 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Testing Form confirmation  actual: 'Thank you for entering the competition.' matched with expected 'Thank you for entering the competition.'
+2018-06-04 12:00:03,710 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Verified Text  'TestingForm_ThankU'
+2018-06-04 12:00:03,711 - rootLogger - INFO - SuiteTestingFormValidDataTest --> 'PASS'
+2018-06-04 12:00:04,012 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_00_04PM.png'
+2018-06-04 12:00:04,280 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_00_04PM.png'
+2018-06-04 12:00:04,285 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '1' as PASS In excel.
+2018-06-04 12:00:04,286 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************
+2018-06-04 12:00:04,287 - rootLogger - INFO - SuiteTestingFormValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-04 12:00:14,374 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Element '[[ChromeDriver: chrome on XP (336cff5826ce16760bbf7d4d469a87ac)] -> id: firstname]' not displayed after '10' Seconds of wait. 
+2018-06-04 12:00:14,456 - rootLogger - INFO - SuiteTestingFormValidDataTest:- SuiteTestingFormValidData  ''  --> 'FAIL'
+2018-06-04 12:00:14,736 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Failures/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_00_14PM.png'
+2018-06-04 12:00:15,015 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Failures/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_00_15PM.png'
+2018-06-04 12:00:15,020 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '2' as FAIL In excel.
+2018-06-04 12:00:15,020 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************
+2018-06-04 12:00:15,021 - rootLogger - INFO - SuiteTestingFormValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-04 12:00:25,111 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Element '[[ChromeDriver: chrome on XP (336cff5826ce16760bbf7d4d469a87ac)] -> id: firstname]' not displayed after '10' Seconds of wait. 
+2018-06-04 12:00:25,133 - rootLogger - INFO - SuiteTestingFormValidDataTest:- SuiteTestingFormValidData  ''  --> 'FAIL'
+2018-06-04 12:00:25,397 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Failures/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_00_25PM.png'
+2018-06-04 12:00:25,682 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Failures/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_00_25PM.png'
+2018-06-04 12:00:25,685 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '3' as FAIL In excel.
+2018-06-04 12:00:25,685 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************
+2018-06-04 12:00:25,687 - rootLogger - INFO - ******************************** End of Execution for :- SuiteTestingFormValidDataTest *************************************

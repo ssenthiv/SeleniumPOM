@@ -1,0 +1,61 @@
+2018-06-04 12:05:56,024 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2018-06-04 12:06:02,174 - rootLogger - INFO - *************************** Execution Started For :- SuiteTestingFormValidDataTest *****************************
+2018-06-04 12:06:26,360 - rootLogger - INFO - SuiteTestingFormValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-04 12:06:26,699 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'FirstName'
+2018-06-04 12:06:26,864 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'LastName'
+2018-06-04 12:06:27,061 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Email'
+2018-06-04 12:06:27,231 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'MobileNo'
+2018-06-04 12:06:27,398 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Address'
+2018-06-04 12:06:27,535 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Suburb'
+2018-06-04 12:06:27,718 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'State'
+2018-06-04 12:06:27,845 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Post Code'
+2018-06-04 12:06:27,982 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Date of Birth'
+2018-06-04 12:06:28,117 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-04 12:06:28,222 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Submit Button'
+2018-06-04 12:06:33,324 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Testing Form confirmation  actual: 'Thank you for entering the competition.' matched with expected 'Thank you for entering the competition.'
+2018-06-04 12:06:33,325 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Verified Text  'TestingForm_ThankU'
+2018-06-04 12:06:33,326 - rootLogger - INFO - SuiteTestingFormValidDataTest --> 'PASS'
+2018-06-04 12:06:33,600 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_06_33PM.png'
+2018-06-04 12:06:33,885 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_06_33PM.png'
+2018-06-04 12:06:33,891 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '1' as PASS In excel.
+2018-06-04 12:06:33,892 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************
+2018-06-04 12:06:33,893 - rootLogger - INFO - SuiteTestingFormValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-04 12:06:34,183 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'FirstName'
+2018-06-04 12:06:34,340 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'LastName'
+2018-06-04 12:06:34,517 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Email'
+2018-06-04 12:06:34,648 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'MobileNo'
+2018-06-04 12:06:34,785 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Address'
+2018-06-04 12:06:34,908 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Suburb'
+2018-06-04 12:06:35,047 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'State'
+2018-06-04 12:06:35,159 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Post Code'
+2018-06-04 12:06:35,301 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Date of Birth'
+2018-06-04 12:06:35,427 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-04 12:06:35,520 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Submit Button'
+2018-06-04 12:06:40,603 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Testing Form confirmation  actual: 'Thank you for entering the competition.' matched with expected 'Thank you for entering the competition.'
+2018-06-04 12:06:40,603 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Verified Text  'TestingForm_ThankU'
+2018-06-04 12:06:40,603 - rootLogger - INFO - SuiteTestingFormValidDataTest --> 'PASS'
+2018-06-04 12:06:40,891 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_06_40PM.png'
+2018-06-04 12:06:41,150 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_06_41PM.png'
+2018-06-04 12:06:41,155 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '2' as PASS In excel.
+2018-06-04 12:06:41,155 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************
+2018-06-04 12:06:41,156 - rootLogger - INFO - SuiteTestingFormValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-04 12:06:41,590 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'FirstName'
+2018-06-04 12:06:41,834 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'LastName'
+2018-06-04 12:06:42,261 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Email'
+2018-06-04 12:06:42,394 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'MobileNo'
+2018-06-04 12:06:43,136 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Address'
+2018-06-04 12:06:43,869 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Suburb'
+2018-06-04 12:06:43,995 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'State'
+2018-06-04 12:06:44,108 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Post Code'
+2018-06-04 12:06:44,235 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Entered  'Date of Birth'
+2018-06-04 12:06:44,367 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-04 12:06:44,470 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Clicked on  'Submit Button'
+2018-06-04 12:06:49,546 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Element '[[ChromeDriver: chrome on XP (995de0a72c16ffb82dfee5dc105b0f3c)] -> xpath: .//*[@id='the-form']/div[2]/div[1]/div/h2]' not displayed after '5' Seconds of wait. 
+2018-06-04 12:06:49,570 - rootLogger - INFO - SuiteTestingFormValidDataTest:- SuiteTestingFormValidDataTest:- Testing Form confirmation Message actual: '' is not matched with expected 'Thank you for entering the competition.'
+2018-06-04 12:06:49,572 - rootLogger - INFO - SuiteTestingFormValidDataTest:- Verified Text  'TestingForm_ThankU'
+2018-06-04 12:06:49,572 - rootLogger - INFO - SuiteTestingFormValidDataTest:- SuiteTestingFormInValidData  --> 'FAIL'
+2018-06-04 12:06:49,863 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Failures/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_06_49PM.png'
+2018-06-04 12:06:50,154 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Failures/04-Jun-2018' as:- 'SuiteTestingFormValidDataTest.SuiteTestingFormValidDataTestPOM - 04-Jun-2018__12_06_50PM.png'
+2018-06-04 12:06:50,158 - rootLogger - INFO - SuiteTestingFormValidDataTest :- Reporting test data set line '3' as FAIL In excel.
+2018-06-04 12:06:50,159 - rootLogger - INFO - SuiteTestingFormValidDataTest :- *************************************************
+2018-06-04 12:06:50,159 - rootLogger - INFO - ******************************** End of Execution for :- SuiteTestingFormValidDataTest *************************************

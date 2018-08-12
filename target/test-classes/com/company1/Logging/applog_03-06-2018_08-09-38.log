@@ -1,0 +1,164 @@
+2018-06-03 20:09:40,961 - rootLogger - INFO - IE Driver Instance loaded successfully.
+2018-06-03 20:09:46,073 - rootLogger - INFO - *************************** Execution Started For :- SuiteTestingFormInValidDataTest *****************************
+2018-06-03 20:09:46,566 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:09:47,821 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:09:48,803 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:09:51,933 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:09:52,916 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:09:53,840 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:09:54,785 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:09:55,787 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:09:56,729 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:09:57,669 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:10:00,430 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 20:10:01,872 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:10:02,042 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:10:02,043 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:10:02,043 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:10:04,668 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_10_04PM.png'
+2018-06-03 20:10:04,677 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '1' as PASS In excel.
+2018-06-03 20:10:04,677 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:10:04,679 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:10:05,638 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:10:06,478 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:10:07,272 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:10:08,217 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:10:09,152 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:10:10,051 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:10:11,076 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:10:12,012 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:10:12,944 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:10:15,745 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 20:10:18,194 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:10:18,371 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:10:18,371 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:10:18,371 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:10:21,271 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_10_21PM.png'
+2018-06-03 20:10:21,275 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '2' as PASS In excel.
+2018-06-03 20:10:21,276 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:10:21,277 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:10:23,473 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:10:27,470 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:10:28,400 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:10:29,367 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:10:33,622 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:10:37,400 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:10:38,661 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:10:40,681 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:10:42,010 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:10:44,734 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 20:10:47,183 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:10:47,340 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:10:47,340 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:10:47,340 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:10:49,912 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_10_49PM.png'
+2018-06-03 20:10:49,918 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '3' as PASS In excel.
+2018-06-03 20:10:49,919 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:10:49,920 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:10:50,827 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:10:51,696 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:10:52,529 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:10:53,455 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:10:54,386 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:10:55,258 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:10:56,086 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:10:56,973 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:10:57,932 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:11:00,676 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 20:11:03,073 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:11:03,240 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:11:03,241 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:11:03,241 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:11:05,844 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_11_05PM.png'
+2018-06-03 20:11:05,852 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '4' as PASS In excel.
+2018-06-03 20:11:05,852 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:11:05,854 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:11:06,770 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:11:07,716 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:11:08,629 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:11:09,551 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:11:10,495 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:11:11,428 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:11:12,278 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:11:13,215 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:11:14,184 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:11:16,969 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 20:11:19,418 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:11:19,583 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:11:19,583 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:11:19,583 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:11:22,161 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_11_22PM.png'
+2018-06-03 20:11:22,166 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '5' as PASS In excel.
+2018-06-03 20:11:22,166 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:11:22,167 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:11:23,085 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:11:23,978 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:11:24,796 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:11:25,715 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:11:26,649 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:11:27,539 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:11:28,446 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:11:29,384 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:11:30,331 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:11:33,059 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 20:11:36,031 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:11:36,188 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:11:36,188 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:11:36,188 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:11:38,797 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_11_38PM.png'
+2018-06-03 20:11:38,802 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '6' as PASS In excel.
+2018-06-03 20:11:38,802 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:11:38,804 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:11:39,739 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:11:40,642 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:11:41,441 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:11:42,367 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:11:43,325 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:11:44,254 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:11:45,211 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:11:46,119 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:11:47,036 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:11:49,745 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 20:11:52,651 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:11:52,838 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:11:52,838 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:11:52,838 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:11:55,446 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_11_55PM.png'
+2018-06-03 20:11:55,451 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '7' as PASS In excel.
+2018-06-03 20:11:55,451 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:11:55,452 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:11:56,348 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:11:57,253 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:11:58,076 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:11:58,990 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:11:59,908 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:12:00,823 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:12:01,626 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:12:02,517 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:12:03,418 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:12:06,150 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Terms and Condition'
+2018-06-03 20:12:09,033 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:12:09,212 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:12:09,212 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:12:09,212 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:12:11,825 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_12_11PM.png'
+2018-06-03 20:12:11,829 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '8' as PASS In excel.
+2018-06-03 20:12:11,830 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:12:11,830 - rootLogger - INFO - SuiteTestingFormInValidDataTest: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 20:12:12,697 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'FirstName'
+2018-06-03 20:12:13,629 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'LastName'
+2018-06-03 20:12:14,462 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Email'
+2018-06-03 20:12:15,379 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'MobileNo'
+2018-06-03 20:12:16,301 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Address'
+2018-06-03 20:12:17,182 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Suburb'
+2018-06-03 20:12:18,097 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'State'
+2018-06-03 20:12:18,959 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Post Code'
+2018-06-03 20:12:19,881 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Entered  'Date of Birth'
+2018-06-03 20:12:22,086 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Clicked on  'Submit Button'
+2018-06-03 20:12:22,252 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Testing Form is not submitted as it is negative scenario  
+2018-06-03 20:12:22,252 - rootLogger - INFO - SuiteTestingFormInValidDataTest:- Verified Testing Form Status  
+2018-06-03 20:12:22,252 - rootLogger - INFO - SuiteTestingFormInValidDataTest --> 'PASS'
+2018-06-03 20:12:24,865 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidDataTest.SuiteTestingFormInValidDataTestPOM - 03-Jun-2018__08_12_24PM.png'
+2018-06-03 20:12:24,870 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- Reporting test data set line '9' as PASS In excel.
+2018-06-03 20:12:24,870 - rootLogger - INFO - SuiteTestingFormInValidDataTest :- *************************************************
+2018-06-03 20:12:24,871 - rootLogger - INFO - ******************************** End of Execution for :- SuiteTestingFormInValidDataTest *************************************

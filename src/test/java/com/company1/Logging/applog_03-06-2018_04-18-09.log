@@ -1,0 +1,25 @@
+2018-06-03 16:18:13,181 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2018-06-03 16:18:19,323 - rootLogger - INFO - *************************** Execution Started For :- SuiteTestingFormInValidData *****************************
+2018-06-03 16:18:43,691 - rootLogger - INFO - SuiteTestingFormInValidData: ****** Testing Form Submit with Valid Data Test ******
+2018-06-03 16:18:43,853 - rootLogger - INFO - SuiteTestingFormInValidData:- Entered  'FirstName'
+2018-06-03 16:18:44,065 - rootLogger - INFO - SuiteTestingFormInValidData:- Entered  'LastName'
+2018-06-03 16:18:44,065 - rootLogger - INFO - SuiteTestingFormInValidData --> 'PASS'
+2018-06-03 16:18:44,382 - rootLogger - INFO -  Screen shot  is stored at 'screenshots/Success/03-Jun-2018' as:- 'SuiteTestingFormInValidData.SuiteTestingFormInValidDataTest - 03-Jun-2018__04_18_44PM.png'
+2018-06-03 16:18:44,391 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '1' as PASS In excel.
+2018-06-03 16:18:44,391 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
+2018-06-03 16:18:44,397 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '2' as SKIP In excel.
+2018-06-03 16:18:44,397 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
+2018-06-03 16:18:44,405 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '3' as SKIP In excel.
+2018-06-03 16:18:44,405 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
+2018-06-03 16:18:44,410 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '4' as SKIP In excel.
+2018-06-03 16:18:44,410 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
+2018-06-03 16:18:44,416 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '5' as SKIP In excel.
+2018-06-03 16:18:44,417 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
+2018-06-03 16:18:44,423 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '6' as SKIP In excel.
+2018-06-03 16:18:44,423 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
+2018-06-03 16:18:44,428 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '7' as SKIP In excel.
+2018-06-03 16:18:44,429 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
+2018-06-03 16:18:44,434 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '8' as SKIP In excel.
+2018-06-03 16:18:44,435 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
+2018-06-03 16:18:44,440 - rootLogger - INFO - SuiteTestingFormInValidData :- Reporting test data set line '9' as SKIP In excel.
+2018-06-03 16:18:44,440 - rootLogger - INFO - SuiteTestingFormInValidData :- *************************************************
