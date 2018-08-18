@@ -4,6 +4,7 @@
 
 	<listeners> 
 		<listener class-name="com.company1.utility.ScreenshotUtility"></listener> 
+		<listener class-name="com.company1.TestSuiteBase.ExtentReporterNG"></listener> 
  	</listeners>
 
 	<suite-files>
